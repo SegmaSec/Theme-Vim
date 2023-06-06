@@ -1,2 +1,2 @@
-# Theme-Vim
-my best theme vim
+# The Best Theme-Vim
+In Linux OS

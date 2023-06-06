@@ -1,2 +1,5 @@
 # The Best Theme-Vim
-In Linux OS
+In Linux OS .
+Color, Icon ,All...
+
+
